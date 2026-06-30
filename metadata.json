@@ -1,0 +1,6 @@
+{
+  "name": "AI Productivity Companion",
+  "description": "An AI-powered productivity companion that pro-actively plans, prioritizes, and recommends tasks, featuring a Pomodoro timer, flashcards, a notepad, and goal tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
